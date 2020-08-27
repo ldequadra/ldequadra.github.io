@@ -1,7 +1,7 @@
 # Site settings
 title: ldequadra
 description: Engenharia Eletrotecnica
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: https://ldequadra.github.io/
 
 # User settings
