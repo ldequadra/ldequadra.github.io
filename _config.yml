@@ -1,13 +1,13 @@
 # Site settings
 title: ldequadra
-description: Engenharia Eletrotecnica
+description: Engenharia Eletrotécnica
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://ldequadra.github.io/
 
 # User settings
 username: Luiz Claudio de Quadra
 user_description: Busco estudar o que posso para aprender o que preciso.
-user_title: Engenharia Eletrotecnica
+user_title: Engenharia Eletrotécnica
 email: luliquadra21@gmail.com
 twitter_username: ldequadra
 github_username:  ldequadra
