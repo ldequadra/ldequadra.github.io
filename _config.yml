@@ -1,14 +1,14 @@
 # Site settings
 title: Luiz Claudio de Quadra
-description: A blog about lorem ipsum dolor sit amet
+description: Electrical Engineering
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: https://ldequadra.github.io/
 
 # User settings
 username: ldequadra
-user_description: Busco estudar o que posso afim de aprender o que preciso.
-user_title: Engenharia Eletrotecnica
-email: anon@anon.com
+user_description: Always aware on the growing technological advance and constant globalization; A competitive and autonomous professional, with conscious decision making, aiming to the maximum the safety at the organizational environment.
+user_title: Electrical Engineering
+email: luliquadra21@gmail.com
 twitter_username: ldequadra
 github_username:  ldequadra
 gplus_username:  ldequadra
