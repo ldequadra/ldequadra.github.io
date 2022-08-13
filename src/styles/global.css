@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+    * {
+        font-family: 'Open Sans', sans-serif;
+        -webkit-font-smoothing: antialiased;
+    }
+
+    body {
+        height: 100vh;
+        background-color: #111A20; /* For browsers that do not support gradients */
+        background-image: linear-gradient(to bottom right, #1C2B35, #111A20);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
+}
+
+
+/* Buttons/Links */
+
+/* Appearance */
+.btn-primary {
+    @apply bg-C300 text-N500 text-BUTTON px-4 py-2 rounded flex flex-row w-min cursor-pointer whitespace-nowrap hover:bg-C500 transition
+}
+.btn-secondary {
+    @apply border border-C300 text-C300 text-BUTTON px-4 py-2 rounded flex flex-row w-min cursor-pointer whitespace-nowrap hover:bg-C300 hover:text-N500 transition
+}
+
+/* Icons */
+
+.btn-noIconBefore, .btn-noIconAfter {
+    @apply hidden
+}
